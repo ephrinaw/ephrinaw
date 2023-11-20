@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ephrem! <br/><a href="https://github.com/ephrinaw">Programmer</a>, <a href="https://www.linkedin.com/in/ephrem-ewnetu/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Ephrem! <br/><a href="https://github.com/ephrinaw">Programmer</a>, <a href="https://www.linkedin.com/in/ephrem-ewnetu/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -25,6 +25,7 @@
 
 - [Cybersecurity certification artifacts](https://github.com/ephrinaw/cybersecurity)
 
+<h2><a href="https://rb.gy/ba6zb8">YouTube</a></h1></h2>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,6 +34,6 @@
 
 <a href="https://rb.gy/ba6zb8">YouTube</a></h1>
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://rb.gy/ba6zb8
 [linkedin]: https://linkedin.com/in/ephrem-ewnetu
 
