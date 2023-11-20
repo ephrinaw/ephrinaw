@@ -25,6 +25,7 @@
 <h2>🛡️🛡️ Cybersecurity</h2>
 
 - [Cybersecurity certification artifacts](https://github.com/ephrinaw/cybersecurity)
+- [Linux: Hardening Kali Linux](https://github.com/ephrinaw/Hardening-Linux)
 
 <h2><a href="https://rb.gy/ba6zb8">YouTube</a></h1></h2>
 
