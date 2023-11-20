@@ -7,7 +7,7 @@
 - <b>Expense tracker app </b>
   - [An expense tracker app using React](https://github.com/ephrinaw/expense-demo) 
 - <b>Meetup app</b>
-  - [A  meetup app using NextJs ans MongoDb](https://github.com/ephrinaw/next-demo)  [![Demo here](https://img.shields.io/badge/Demo%20here-blue?style=for-the-badge&logo=appveyor)](https://next-demo-ephrinaw.vercel.app/)
+  - [A  meetup app using NextJs ans MongoDb](https://github.com/ephrinaw/next-demo)   [![Demo here](https://img.shields.io/badge/Demo%20here-blue?style=for-the-badge&logo=appveyor)](https://next-demo-ephrinaw.vercel.app/)
 
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
