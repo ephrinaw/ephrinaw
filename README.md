@@ -26,6 +26,7 @@
 
 - [Cybersecurity certification artifacts](https://github.com/ephrinaw/cybersecurity)
 - [Linux: Hardening Kali Linux](https://github.com/ephrinaw/Hardening-Linux)
+- [Network Packet Capturing using tcpdump](https://github.com/ephrinaw/Packet-Capturing)
 
 <h2><a href="https://rb.gy/ba6zb8">YouTube</a></h1></h2>
 
